@@ -1,5 +1,5 @@
 # IPTV
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,BEIN SPORTS  News HD
 http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/1884
 Download from freeiptvm3u24.blogspot.com
